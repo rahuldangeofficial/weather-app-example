@@ -1,0 +1,29 @@
+/* CSS styles for the weather app */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+input {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+#weatherData {
+  text-align: center;
+  margin: 1rem;
+  padding: 1rem;
+}
